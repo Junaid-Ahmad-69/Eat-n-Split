@@ -1,3 +1,5 @@
+![image](https://github.com/Junaid-Ahmad-69/06-udemy-Eat-n-Split/assets/85307602/6cfb9a89-7014-4bd7-95f0-b63927971c93)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
